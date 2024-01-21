@@ -2,6 +2,9 @@
 
 Welcome to the future of Data Center Networking! This GitHub repository houses the innovative project, **"Assigning Self-Motivated SDN Controller in Data Center Networks,"** where we redefine the landscape of network management using Python, MySQL, and HTML.
 
+![SDN Controller Video](https://raw.githubusercontent.com/samara6855/SDN-In-Data-Center-Networks/main/SDN%20controller%20video.gif)
+
+
 ## Key Features:
 - 🧠 **Self-Motivated SDN Controller:** Empower your data center with a cutting-edge, self-motivated SDN controller that adapts intelligently to network dynamics.
 - 🚀 **Dynamic Assignment:** Seamlessly allocate resources and optimize network performance based on real-time demand, ensuring efficient utilization.
